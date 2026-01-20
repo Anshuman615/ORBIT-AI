@@ -5,6 +5,12 @@ Send messages to a Gemma 2B model (or any Ollama model you prefer) through a sim
 
 **Current status**: Basic working prototype with a single `/chat` endpoint.
 
+
+## Screenshots
+
+![Landing page](Orbit-AI.png)
+
+
 ## Features
 
 - Simple REST API endpoint: `POST /chat`
